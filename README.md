@@ -23,3 +23,7 @@ niko is Database GUI Client specialized AWS.
 ## available
 
 Only a beta version is available now. Updates may contain breaking changes.
+
+## installation
+
+[installation](./.doc/installation.md)
